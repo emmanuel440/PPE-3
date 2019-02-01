@@ -1,0 +1,24 @@
+﻿**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190123081214
+Nom d'utilisateur : OFFSET\MARDE-ALAGAMA
+Utilisateur runAs :  OFFSET\MARDE-ALAGAMA
+Nom de la configuration : 
+Ordinateur : OFFSET (Microsoft Windows NT 10.0.17134.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -Command if((Get-ExecutionPolicy ) -ne 'AllSigned') { Set-ExecutionPolicy -Scope Process Bypass }; & 'C:\Users\MARDE-ALAGAMA\Desktop\TP PowerShell\existance fichier.ps1'
+ID de processus : 2952
+PSVersion: 5.1.17134.407
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.407
+BuildVersion: 10.0.17134.407
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcription démarrée, le fichier de sortie est C:\Users\MARDE-ALAGAMA\Desktop\TP PowerShell\log_22-01-2019\logpresent.txt
+Present
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190123081214
+**********************
